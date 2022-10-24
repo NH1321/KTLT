@@ -1,1 +1,1 @@
-# KTLT
+THỰC HÀNH MÔN KỸ THUẬT LẬP TRÌNH _ IT3040 _ ĐẠI HỌC BÁCH KHOA HÀ NỘI
